@@ -4,5 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-eframe = "0.24"
+eframe = { version = "0.24", features = ["glow"] }
 egui = "0.24"
