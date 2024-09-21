@@ -2,8 +2,7 @@
 
 Note: Valid lattice structures occur for n = 2, 3, 4, and 6.
 
-### n = 1
-![n=1](project-docs/screen_n=1.png)
+
 
 ### n = 2
 ![n=2](project-docs/screen_n=2.png)
@@ -37,3 +36,7 @@ Note: Valid lattice structures occur for n = 2, 3, 4, and 6.
 
 ### n = 12
 ![n=12](project-docs/screen_n=12.png)
+
+### n = 1
+This shows "valid" but actually is the same lattice as n=2 probably not valid idk...
+![n=1](project-docs/screen_n=1.png)
