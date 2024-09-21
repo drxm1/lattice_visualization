@@ -2,10 +2,7 @@
 
 Note: Valid lattice structures occur for n = 2, 3, 4, and 6.
 
-
-
-### n = 2
-![n=2](project-docs/screen_n=2.png)
+The purple arrows are some arbitrarily chosen primitive vectores.
 
 ### n = 3
 ![n=3](project-docs/screen_n=3.png)
@@ -38,5 +35,9 @@ Note: Valid lattice structures occur for n = 2, 3, 4, and 6.
 ![n=12](project-docs/screen_n=12.png)
 
 ### n = 1
-This shows "valid" but actually is the same lattice as n=2 probably not valid idk...
+This shows "valid" but actually is the same lattice as n=2 probably not valid idk, but its more of a trivial case anyways.
 ![n=1](project-docs/screen_n=1.png)
+
+### n = 2
+Arrows make the points a bit less visible. We can only choose linearly dependent vectors here.
+![n=2](project-docs/screen_n=2.png)
